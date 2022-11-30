@@ -1,0 +1,163 @@
+﻿body {
+	color: black;
+	margin: 0;
+}
+img{ max-width: 100%;
+	
+}
+#a {
+	width: 100%;
+	height: 95vh;
+	background-image: url("https://tech-espm.github.io/labs-editor/html/site/l_a_b_o_r_w_a_v_e___m_i_k_h_a_i_l___b_a_k_u_n_i_n_by_temporary_warp_dblm3h0-pre.jpg");
+}	
+#rodape {
+	background-image: linear-gradient(to right, #00ffff , #ff66ff);
+	height: 5vh;
+	width: 100%; 
+	display: inline-block;
+}
+#menu {
+	width: 300px;
+	height: 20px;
+}	
+#menu ul {
+	list-style-type: none;	
+}
+#menu ul li {
+	display: inline-block;
+	width: 100px;
+}
+#menu ul li a {
+	color: white;
+	text-decoration: none;
+}
+#menu ul li a:hover {
+	color: grey; /*   */
+	text-decoration: overline;
+}
+#sobre{
+	background-color: #d9d5cc;
+	width: 711px;
+	height: 400px;
+	float: right;
+	position: absolute;
+	left: 450px;
+	top: 130px;
+	overflow-y: scroll;
+}
+#fotos{
+	background-color: #d9d5cc;
+	width: 711px;
+	height: 400px;
+	float: right;
+	position: absolute;
+	left: 450px;
+	top: 130px;
+	overflow-y: scroll;
+}
+#filmes{
+	background-color: #d9d5cc;
+	width: 711px;
+	height: 400px;
+	float: right;
+	position: absolute;
+	left: 450px;
+	top: 130px;
+	overflow-y: scroll;
+	text-align: center;
+}
+#contato{
+	background-color: #d9d5cc;
+	width: 711px;
+	height: 400px;
+	float: right;
+	position: absolute;
+	left: 450px;
+	top: 130px;
+	overflow-y: scroll;
+}
+#barrinha{
+	background-image: linear-gradient(to right, #00ffff , #ff66ff);
+	width: 100%;
+	height: 5vh;
+}
+.carlos{
+	margin-top: 0;	
+	padding-left: 30px;
+	height: 30px;
+	line-height: 30px;
+	letter-spacing: 6px;	
+}
+.carlos2{
+	margin-top: 0;	
+	padding-left: 180px;
+	height: 30px;
+	line-height: 40px;
+	letter-spacing: 6px;
+	font-family: Times New Roman;
+}
+#fechar{
+	top: 0;
+	right: 0;
+	position: absolute;
+	width: 35px;
+}
+.titulo-janela{
+	text-align: center;	
+	line-height: 30px;
+	letter-spacing: 6px;
+	
+}
+#start{
+	max-width: 6%;
+	max-height: 5vh;
+	display: inline-block;
+}
+#good{
+	text-align: center;	
+	margin-bottom: 50;
+	margin-top: 50;
+}
+.texto{
+	text-align: center;	
+	line-height: 30px;
+	letter-spacing: 2px;
+	
+}
+.sim{
+	text-align: center;	
+	line-height: 30px;
+	letter-spacing: 2px;
+	font-size: 10px;
+}
+.conceito{
+	text-align: center;	
+	line-height: 30px;
+	letter-spacing: 2px;
+	font-size: 7px;
+}
+.email{
+	text-align: center;	
+	line-height: 30px;
+	letter-spacing: 2px;
+	font-size: 15px;
+}
+#good-filmes{
+	text-align: center;	
+	margin-bottom: 50;
+	margin-top: 50;
+	padding-right: 100px;
+	padding-left: 100px;
+}
+.icone-filmes{
+	width: 200px;
+	height: 80px;
+	margin-top: 40px;
+	margin-left: 30px;
+	display: inline-block;
+	text-align: center;
+}
+#caixinha{
+	display: inline-block;	
+}
+
